@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Carlos+Santiago;Flutter+%7C+Dart+%7C+Python+Developer)](https://github.com/shag0007)
+
 # 👋 ¡Hola! Soy @shag0007
 
 Soy un **desarrollador apasionado por crear soluciones móviles y web** que impacten positivamente la experiencia del usuario y la eficiencia de los procesos. Me enfoco en el desarrollo con **Flutter/Dart**, sin dejar de lado tecnologías sólidas como **PHP, Python y Java**, junto a un dominio avanzado de **HTML, CSS y JavaScript**. Además, tengo experiencia en el manejo de bases de datos como **MySQL**, **PostgreSQL**, **Firebase** y herramientas de administración como **phpMyAdmin** para garantizar una gestión eficiente de la información.
