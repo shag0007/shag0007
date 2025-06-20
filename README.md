@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy @shag0007
 
-Soy un **desarrollador apasionado por crear soluciones móviles y web** que impacten positivamente la experiencia del usuario y la eficiencia de los procesos. Me enfoco en el desarrollo con **Flutter/Dart**, sin dejar de lado tecnologías sólidas como **PHP, Python y Java**, junto a un dominio avanzado de **HTML, CSS y JavaScript**.
+Soy un **desarrollador apasionado por crear soluciones móviles y web** que impacten positivamente la experiencia del usuario y la eficiencia de los procesos. Me enfoco en el desarrollo con **Flutter/Dart**, sin dejar de lado tecnologías sólidas como **PHP, Python y Java**, junto a un dominio avanzado de **HTML, CSS y JavaScript**. Además, tengo experiencia en el manejo de bases de datos como **MySQL**, **PostgreSQL**, **Firebase** y herramientas de administración como **phpMyAdmin** para garantizar una gestión eficiente de la información.
+
 
 ![visitors](https://komarev.com/ghpvc/?username=shag0007&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -61,7 +62,8 @@ Si no estoy programando, probablemente esté imaginando cómo automatizar alguna
 
 ## 🌍 English version
 
-Hi there! I'm **@shag0007**, a developer focused on building impactful mobile and web applications. I specialize in **Flutter/Dart**, and I'm also proficient in **PHP, Python, Java**, and advanced **HTML, CSS, and JavaScript**.
+Hi there! I'm **@shag0007**, i'm a **passionate developer focused on building mobile and web solutions** that positively impact user experience and process efficiency. I specialize in **Flutter/Dart**, while also working with solid technologies like **PHP, Python, and Java**, along with advanced skills in **HTML, CSS, and JavaScript**. Additionally, I have experience managing databases such as **MySQL**, **PostgreSQL**, **Firebase**, and using tools like **phpMyAdmin** for efficient data handling.
+
 
 ### 👀 Interests
 - Cross-platform mobile apps
